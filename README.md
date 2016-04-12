@@ -1,7 +1,5 @@
 # datetimeconvention
 
-<b>Air Sensors Workgrou: Date/Time Convention</b>
-
 <b>Measurement Time Interval</b>
 
 We suggest picking one of the following two formats to specify the measurement time interval, the first option being the simplest. 
