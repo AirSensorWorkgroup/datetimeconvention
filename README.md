@@ -1,6 +1,6 @@
 # datetimeconvention
 
-<b> Air Sensors Workgrou: Date/Time Convention</b>
+<b> Air Sensors Workgroup: Date/Time Convention</b>
 
 <b>Measurement Time Interval</b>
 
